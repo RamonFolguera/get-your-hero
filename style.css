@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    padding: 0;
+    text-align: center;
+
+}
+
+
+#heroImage {
+    display: inline-block;
+
+    margin-bottom: 20px;
+
+}
+    
+
+p {
+    background-color: turquoise;
+    margin: 0;
+    padding: 10px;
+
+}
+
